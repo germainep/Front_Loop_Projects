@@ -1,0 +1,13 @@
+{
+  "name": "Front_Loop_Projects",
+  "version": "1.0.0",
+  "description": "Archive of my soultions to front loop front-end code challenges",
+  "main": "index.js",
+  "repository": "git@github.com:germainep/Front_Loop_Projects.git",
+  "author": "Germaine Pannell <glpannell@icloud.com>",
+  "license": "MIT",
+  "private": false,
+  "dev_dependencies": {
+    "brunch": "^2.10.17"
+  }
+}
