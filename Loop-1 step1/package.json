@@ -6,7 +6,7 @@
   "version": "0.0.1",
   "repository": "",
   "scripts": {
-    "start": "brunch watch --server",
+    "start": "export LOGGY_STACKS=1 && brunch watch --server",
     "build": "brunch build --production"
   },
   "dependencies": {},
@@ -14,7 +14,9 @@
     "auto-reload-brunch": "^2",
     "brunch": "^2",
     "clean-css-brunch": "^2",
+    "imageoptmizer-brunch": "^0.0.6",
     "pugjs-brunch": "^2.11.3",
+    "stylus-brunch": "^2.10.1",
     "uglify-js-brunch": "^2"
   }
 }
